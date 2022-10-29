@@ -1,4 +1,4 @@
-# new-git-project
+# ReactCrossSkilling2022-GitCourse_ud123
 # Udacity Course "Version Control with Git" - Training Project
 ## Udacity - EgFWD - React Development Cross-Skilling Nanodegree Program
 ### October 2022 Cohort
